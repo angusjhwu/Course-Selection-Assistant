@@ -13,3 +13,7 @@ Course selection is a cumbersome process, having to monitor the prerequisite cou
 - Create a GUI/web app where the user can select all the courses they desire to take, then all the courses are to be displayed in a connected fashion for groups of prerequisite-related courses
 - Courses are put into the correct year and term such that it satisfies university requirements and course prerequisites
 - Users can input their perferred course sequence, which the program will then take into account while optimizing the planner
+
+## Quality of Life Features (to-do)
+- Share course time table through link or file (as an URL maybe?)
+- Suggestions for Certificates and Minors based on existing courses
